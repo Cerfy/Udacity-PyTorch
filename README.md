@@ -1,2 +1,4 @@
 # Udacity-PyTorch
-Codes are part of Udacity's Introduction to PyTorch Course
+I participated in the Udacity PyTorch Scholarship program that is currently ongoing and the codes are part of the Course.
+ 
+
