@@ -1,3 +1,7 @@
 __pycache__/
 .ipynb_checkpoints/
 Cat_Dog_data/
+Lesson_5/model.pt
+Lesson_5/model_cifar.pt
+Lesson_5/data/cifar-10-batches-py
+Lesson_5/data/cifar-10-python.tar.gz
